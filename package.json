@@ -1,0 +1,19 @@
+{
+  "name": "scraping-invest-site",
+  "version": "1.0.0",
+  "description": "Webscraping from site investsite.com.br",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Scraping-Invest-Site"
+  },
+  "author": "Albert Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^3.3.0",
+    "scrap": "^0.1.0"
+  }
+}
