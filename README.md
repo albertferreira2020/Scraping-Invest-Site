@@ -1,5 +1,7 @@
 # Scraping-Invest-Site
-Creating a webscraping from investsite.com.br with the node.js
+Creating a webscraping from investsite.com.br with the node.js <br>
+This source is from a Brazilian website of financial indicators
+
 
 ```javascript
 var sql = require("mssql");
